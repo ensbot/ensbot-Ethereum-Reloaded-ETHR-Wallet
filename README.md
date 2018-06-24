@@ -13,18 +13,18 @@ Check gh-pages files against live website at https://wallet.ether-reloaded.com
 
 | File Name| Status|
 |---|---|
-| index.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/index.html&remoteFile=https://wallet.ether-reloaded.com/index.html)| 
-| embedded.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/embedded.html&remoteFile=https://wallet.ether-reloaded.com/embedded.html)|  
-| helpers.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/helpers.html&remoteFile=https://wallet.ether-reloaded.com/helpers.html)|
-| signmsg.html |![signmsg.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/signmsg.html&remoteFile=https://wallet.ether-reloaded.com/signmsg.html)|
-| bin/startMEW.js |![startMEW.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/bin/startMEW.js&remoteFile=https://wallet.ether-reloaded.com/bin/startMEW.js)|
-| css/etherwallet-master.min.css |![etherwallet-master.min.css](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/css/etherwallet-master.min.css&remoteFile=https://wallet.ether-reloaded.com/css/etherwallet-master.min.css)|
-| fonts/Lato-Bold.woff |![Lato-Bold.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Bold.woff&remoteFile=https://wallet.ether-reloaded.com/fonts/Lato-Bold.woff)|
-| fonts/Lato-Light.woff |![Lato-Bold.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Light.woff&remoteFile=https://wallet.ether-reloaded.com/fonts/Lato-Light.woff)|
-| fonts/Lato-Regular.woff |![Lato-Regular.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Regular.woff&remoteFile=https://wallet.ether-reloaded.com/fonts/Lato-Regular.woff)|
-| js/etherwallet-master.js |![etherwallet-master.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/etherwallet-master.js&remoteFile=https://wallet.ether-reloaded.com/js/etherwallet-master.js)|
-| js/etherwallet-static.min.js |![etherwallet-static.min.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/etherwallet-static.min.js&remoteFile=https://wallet.ether-reloaded.com/js/etherwallet-static.min.js)|
-| js/jquery-1.12.3.min.js |![jquery-1.12.3.min.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/jquery-1.12.3.min.js&remoteFile=https://wallet.ether-reloaded.com/js/jquery-1.12.3.min.js)|
+| index.html |![embedded.html](https://filechecker.wallet.ether-reloaded.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/index.html&remoteFile=https://wallet.ether-reloaded.com/index.html)| 
+| embedded.html |![embedded.html](https://filechecker.wallet.ether-reloaded.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/embedded.html&remoteFile=https://wallet.ether-reloaded.com/embedded.html)|  
+| helpers.html |![embedded.html](https://filechecker.wallet.ether-reloaded.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/helpers.html&remoteFile=https://wallet.ether-reloaded.com/helpers.html)|
+| signmsg.html |![signmsg.html](https://filechecker.wallet.ether-reloaded.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/signmsg.html&remoteFile=https://wallet.ether-reloaded.com/signmsg.html)|
+| bin/startMEW.js |![startMEW.js](https://filechecker.wallet.ether-reloaded.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/bin/startMEW.js&remoteFile=https://wallet.ether-reloaded.com/bin/startMEW.js)|
+| css/etherwallet-master.min.css |![etherwallet-master.min.css](https://filechecker.wallet.ether-reloaded.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/css/etherwallet-master.min.css&remoteFile=https://wallet.ether-reloaded.com/css/etherwallet-master.min.css)|
+| fonts/Lato-Bold.woff |![Lato-Bold.woff](https://filechecker.wallet.ether-reloaded.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Bold.woff&remoteFile=https://wallet.ether-reloaded.com/fonts/Lato-Bold.woff)|
+| fonts/Lato-Light.woff |![Lato-Bold.woff](https://filechecker.wallet.ether-reloaded.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Light.woff&remoteFile=https://wallet.ether-reloaded.com/fonts/Lato-Light.woff)|
+| fonts/Lato-Regular.woff |![Lato-Regular.woff](https://filechecker.wallet.ether-reloaded.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Regular.woff&remoteFile=https://wallet.ether-reloaded.com/fonts/Lato-Regular.woff)|
+| js/etherwallet-master.js |![etherwallet-master.js](https://filechecker.wallet.ether-reloaded.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/etherwallet-master.js&remoteFile=https://wallet.ether-reloaded.com/js/etherwallet-master.js)|
+| js/etherwallet-static.min.js |![etherwallet-static.min.js](https://filechecker.wallet.ether-reloaded.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/etherwallet-static.min.js&remoteFile=https://wallet.ether-reloaded.com/js/etherwallet-static.min.js)|
+| js/jquery-1.12.3.min.js |![jquery-1.12.3.min.js](https://filechecker.wallet.ether-reloaded.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/jquery-1.12.3.min.js&remoteFile=https://wallet.ether-reloaded.com/js/jquery-1.12.3.min.js)|
 
 ### MEW Around the Web
 
@@ -182,7 +182,7 @@ If you want to help contribute, here's what you need to know to get it up and ru
 
 **If you are NOT a developer and have no idea how this works:**
 
-Anyone can help out and it looks way more complicated than it is! If you would rather not deal with Github, please send us an email to info@myetherwallet.com and I'll email you the file and you can make changes and send it back to us and I'll make sure you don't screw anything up. If you feel like experiencing something new, read on!
+Anyone can help out and it looks way more complicated than it is! If you would rather not deal with Github, please send us an email to info@wallet.ether-reloaded.com and I'll email you the file and you can make changes and send it back to us and I'll make sure you don't screw anything up. If you feel like experiencing something new, read on!
 
 1. Sign into your Github account or make a new Github account.
 2. Go to https://github.com/kvhnuke/etherwallet/tree/mercury/app/scripts/translations
