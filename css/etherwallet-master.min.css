@@ -7549,9 +7549,9 @@ header.YAP+.container .alert-info {
 
 .footer {
 	background: #ffffff;
-	background: -webkit-linear-gradient(301deg, #ffffff, #086322);
-	background: -o-linear-gradient(301deg, #ffffff, #086322);
-	background: linear-gradient(149deg, #ffffff, #086322)
+	background: -webkit-linear-gradient(301deg, #ffffff, #0BA236);
+	background: -o-linear-gradient(301deg, #ffffff, #0BA236);
+	background: linear-gradient(301deg, #ffffff, #0BA236);
 	color: #fff;
 	font-size: .8rem;
 	margin-top: 0
@@ -7585,6 +7585,21 @@ header.YAP+.container .alert-info {
 
 .footer a {
 	color: #7fe5ff;
+	font-weight: 400
+}
+
+.footer.footer--left a {
+	color: 0DB53C;
+	font-weight: 400
+}
+
+.footer.footer--cent a {
+	color: 000000;
+	font-weight: 400
+}
+
+.footer.footer--righ a {
+	color: FFFFFF;
 	font-weight: 400
 }
 
