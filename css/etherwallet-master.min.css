@@ -7549,9 +7549,9 @@ header.YAP+.container .alert-info {
 
 .footer {
 	background: #ffffff;
-	background: -webkit-linear-gradient(301deg, #ffffff, #0db43c);
-	background: -o-linear-gradient(301deg, #ffffff, #0db43c);
-	background: linear-gradient(149deg, #ffffff, #0DB43C)
+	background: -webkit-linear-gradient(301deg, #ffffff, #086322);
+	background: -o-linear-gradient(301deg, #ffffff, #086322);
+	background: linear-gradient(149deg, #ffffff, #086322)
 	color: #fff;
 	font-size: .8rem;
 	margin-top: 0
