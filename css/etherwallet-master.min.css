@@ -6707,10 +6707,10 @@ header.YAP+.container .alert-info {
 }
 
 .bg-gradient {
-	background: #163151;
-	background: -webkit-linear-gradient(301deg, #132a45, #143a56, #21a4ce, #19b4ad);
-	background: -o-linear-gradient(301deg, #132a45, #143a56, #21a4ce, #19b4ad);
-	background: linear-gradient(149deg, #132a45, #143a56, #21a4ce, #19b4ad)
+	background: #ffffff;
+	background: -webkit-linear-gradient(301deg, #ffffff, #0db43c);
+	background: -o-linear-gradient(301deg, #ffffff, #0db43c);
+	background: linear-gradient(149deg, #ffffff, #0DB43C)
 }
 
 .bg-gray-lighter {
